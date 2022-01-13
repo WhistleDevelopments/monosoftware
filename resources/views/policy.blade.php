@@ -6,7 +6,17 @@
             </div>
 
             <div class="w-full sm:max-w-2xl mt-6 p-6 bg-white shadow-md overflow-hidden sm:rounded-lg prose">
-                {!! $policy !!}
+                <div>
+                    <h1 style="margin-left: auto; margin-right: auto; text-align: center;">
+                    Privacy Policy
+                    </h1>
+                </div>
+                <p>Last Updated: 13/01/2021</p>
+                    <div class="border-t border-gray-200">
+                    </div>
+                    <div class="py-2">
+                    </div>
+                <p>Test test test test</p>
             </div>
         </div>
     </div>

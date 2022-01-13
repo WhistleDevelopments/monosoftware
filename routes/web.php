@@ -20,3 +20,8 @@ Route::get('/', function () {
 Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
     return view('dashboard');
 })->name('dashboard');
+
+Route::get('/api/v2/:user', function($request) {
+    return $request->user()->id === $post->user_id &&
+       $request->user()->tokenCan('post:update');
+});
