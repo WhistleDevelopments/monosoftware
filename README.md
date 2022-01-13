@@ -2,9 +2,7 @@
 
 <p align="center">
 <a><img src="https://img.shields.io/github/v/release/thewhistledev/monosoftware?label=Releases%3A&style=for-the-badge"></img></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<a><img src="https://img.shields.io/github/commit-activity/w/thewhistledev/monosoftware?label=commits%20per%20week&style=for-the-badge"></img></a>
 </p>
 
 ## About Laravel
