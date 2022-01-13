@@ -7,4 +7,4 @@
 
 ## About Mono Software
 
-Mono Software is a regularly maintained web application project for my website "monosoftware.one" if you would like to use this app, make sure you give credit and use the same license.
+Mono Software is a regularly maintained web application project for my website "monosoftware.one" if you would like to use this app, make sure you give credit and use the same license. 
